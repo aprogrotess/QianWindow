@@ -1,5 +1,5 @@
 import QtQuick 2.14
-import QtGraphicalEffects 1.12
+import Qt5Compat.GraphicalEffects
 import Qt.Window 1.0
 import QtQuick.Window 2.14
 import Qt.Singleton 1.0

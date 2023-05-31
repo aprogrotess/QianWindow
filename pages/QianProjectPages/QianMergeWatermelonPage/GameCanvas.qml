@@ -6,7 +6,8 @@
 
 import QtQuick 2.12
 import "BallRun.js" as BallRes
-import QtMultimedia 5.10
+import QtMultimedia 6.5
+
 Canvas {
     id: canvas
 
